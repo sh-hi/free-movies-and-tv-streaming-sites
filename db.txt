@@ -11,7 +11,7 @@ amzn.to
 axxo.me
 azm.to
 bmovies.nl
-cineb.net
+# cineb.net
 cinebloom.org
 cmovies.la
 cmovieshd.bz
@@ -25,6 +25,8 @@ fmovies.co
 fmovies.to
 freeflix.to
 freemoviesvideosonline.com
+goojara.ch
+goojara.to
 gostream.site
 hdm.to
 hdtoday.tv
