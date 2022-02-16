@@ -33,7 +33,7 @@ bmovies.nl
 bmovies.so
 buscar.co.in
 c1ne.co
-# cineb.net
+cineb.net
 cineb.top
 cinebloom.org
 cinecalidad.lat
