@@ -173,6 +173,7 @@ solarmovie.to
 solarmoviehd.net
 solarmovies.co
 solarmovies.love
+solarmovies.movie
 spacemov.top
 ssoap2day.to
 streamflix.pro
@@ -225,4 +226,5 @@ ymovies.tv
 ymovies.vip
 yomovies.online
 yourmovies.xyz
+yts.gy
 zettaplay.click
