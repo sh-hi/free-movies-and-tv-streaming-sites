@@ -33,10 +33,12 @@
 123moviesweb.net
 123series.ru
 1watch-free.cc
+2kmovie.cc
 4kmoviesonline.club
 4kseries.me
 5movies.fm
 7starmovies.net
+actvid.com
 admitme.club
 afdah.info
 afdah.live
@@ -66,6 +68,7 @@ cmovies.online
 cmovieshd.bz
 cmovieshd.net
 cmovieshd.top
+contv.com
 corporate.pluto.tv
 cpanews.net
 crackle.com
@@ -106,9 +109,12 @@ dulu.to
 emovies.io
 emovies.top
 enterpapp.xyz
+epicstream.com
 f2movies.org
 f2movies.to
+filmrise.com
 filmypunjab.com
+filmzie.com
 first-legal.com
 flix3.me
 flixjoy.watch
@@ -122,6 +128,7 @@ fmovies.hn
 fmovies.to
 freedmovie.com
 freeflix.to
+freeform.com
 freemoviesfull.com
 freemoviesvideosonline.com
 freetipsnews.blogspot.com
@@ -131,6 +138,7 @@ goojara.ch
 goojara.to
 goojara.website
 gostream.site
+gototub.com
 hdm.to
 hdseries.cc
 hdtoday.tv
@@ -149,6 +157,7 @@ kdrama123.me
 kdramahood.com
 kingmovies.is
 kiss-asian.su
+kissmovies.net
 kollafilm.com
 la123movies.org
 la123movies.sbs
@@ -159,7 +168,9 @@ lookmovie160.xyz
 losmovies.fun
 losmovies.site
 losmovies.to
+m4ufree.fun
 m4ufree.tv
+m4uhd.tv
 midnightpulp.com
 mkvmad.com
 mlwbd.com
@@ -177,7 +188,9 @@ moviehdkh.com
 moviejustice.com
 moviemora.com
 movienyt.net
+movies123.sbs
 movies2watch.tv
+moviesanywhere.com
 moviesblog2418.blogspot.com
 moviesjoy.best
 moviesjoy.life
@@ -193,6 +206,7 @@ movietv.cc
 mungfali.com
 mwatchseries.com
 mydownloadtube.to
+myflixer.pw
 myflixer.top
 newmovies.ro
 nowmovies.is
@@ -202,6 +216,8 @@ onlinemovieshindi.com
 onlyseries.net
 peacocktv.com
 peramovies.club
+pinoymovies.es
+pinoymovieshub.su
 plex.tv
 pluto.tv
 popcornflix.com
@@ -213,9 +229,11 @@ putlockernew.site
 putlockers2.com
 putlockersweb.com
 rainierland.is
+rakuten.tv
 roku.com
 rotv.xyz
 seriesonline.host
+sflix.cc
 sflix.se
 sguru.org
 snagfilms.com
@@ -272,6 +290,7 @@ ummagurau.com
 ustvnow.com
 vexmovies.org
 vikv.net
+viu.com
 vk.com
 vmovee.watch
 vudu.com
@@ -281,6 +300,7 @@ w3.0123movies.sbs
 wapkiz.com
 watch-free.me
 watch0123movies.org
+watchmovieshd.ru
 watchmoviestream.me
 watchserieshd.tv
 watchsomuch.tv
@@ -307,6 +327,7 @@ world.dramacool9.vc
 world.dramacool9.video
 world.dramacool9.world
 world.dramacool9.ws
+ww.movies123.sbs
 ww0.0123movie.net
 ww0.0123movies.live
 ww0.123movies.la
@@ -494,4 +515,5 @@ ymovies.vip
 yomovies.online
 yourmovies.xyz
 yts.gy
+zee5.com
 zettaplay.click
