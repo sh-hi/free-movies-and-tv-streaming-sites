@@ -76,7 +76,6 @@ dramacool.ac
 dramacool.rs
 dramacool.tech
 dramacool9.bz
-dramacool9.vc
 dramacool9.ca
 dramacool9.club
 dramacool9.co
@@ -84,6 +83,7 @@ dramacool9.com
 dramacool9.fun
 dramacool9.io
 dramacool9.live
+dramacool9.lv
 dramacool9.net
 dramacool9.pl
 dramacool9.sh
@@ -381,6 +381,7 @@ www.dramacool9.com
 www.dramacool9.fun
 www.dramacool9.io
 www.dramacool9.live
+www.dramacool9.lv
 www.dramacool9.net
 www.dramacool9.pl
 www.dramacool9.sh
